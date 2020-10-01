@@ -1,5 +1,9 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/big-data-europe/Lobby)
 
+Apache documentation for HDFS 2.x commands: 
+https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html 
+
+
 # Changes
 
 Version 2.0.0 introduces uses wait_for_it script for the cluster startup
